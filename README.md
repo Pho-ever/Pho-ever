@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pho-ever
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Typescript,Javascript and ReactJs
+- 🌱 I’m currently learning Vanilla Javascript and ReactJs
 - 💞️ I’m looking to collaborate on Open source projects within my capacity
 - 📫 How to reach me - oluwayomiforever@gmail.com
 
