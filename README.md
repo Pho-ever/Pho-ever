@@ -8,7 +8,7 @@
   
 - 🔥 I develop useable and responsive Frontend designs 
 - 🌱 I interested in learning new skills for becoming an experinced **Frontend Developer**
-- ✨ I am currently gaining competence in ReactJS and MaterialUI
+- ✨ I am currently gaining competence in Vanilla Javascript, ReactJS and MaterialUI
 - 💞️ I’m looking to collaborate on Open source projects within my capacity
 - 🍕  Pizza and Responsive webpage designs
 
