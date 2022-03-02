@@ -1,7 +1,8 @@
 **WELCOME**
 
 
-## 👋 Hi, I’m @Phorever
+## 👋 Hi, I’m Phorever
+
   **A Web developer and a Frontend developer**
   
   
