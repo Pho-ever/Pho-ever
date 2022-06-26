@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I’m Phorever
 
-  **A Web and Frontend developer**
+  **A Frontend developer**
   
   
 - 🔥 I develop useable and responsive Frontend designs 
