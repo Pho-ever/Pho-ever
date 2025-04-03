@@ -1,7 +1,7 @@
 **WELCOME**
 
 
-## 👋 Hi, I’m Phorever
+## 👋 Hi, I’m Mayowa
 
   **A Frontend developer**
   
